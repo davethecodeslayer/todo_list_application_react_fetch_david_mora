@@ -1,0 +1,21 @@
+.card{
+    border-color: black;
+    }
+    
+    #div1{
+    background-color: gainsboro;
+    height: 100vh;
+    }
+    
+    #f1{
+        font-family: 'Helvetica', cursive;
+    }
+    
+    #ti{
+        font-size: 5vw;
+        color: #223480; 
+        font-weight: 400;
+        padding: 8px;
+        font-family: 'Helvetica', cursive;
+    }
+    
